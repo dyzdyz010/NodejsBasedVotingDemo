@@ -1,0 +1,5 @@
+@import url("./flat-ui.css");
+.checkbox,
+.radio {
+	padding-left: 22px;
+}
