@@ -1,7 +1,7 @@
 var lanList = {};
 var request = new XMLHttpRequest();
-var baseUrl = "http://dyzdyz010.ap01.aws.af.cm";
-//var baseUrl = "http://127.0.0.1:8888";
+//var baseUrl = "http://dyzdyz010.ap01.aws.af.cm";
+var baseUrl = "http://127.0.0.1:8888";
 //var baseUrl = "http://duyizhuo.azurewebsites.net";
 
 function beginLoad() {
